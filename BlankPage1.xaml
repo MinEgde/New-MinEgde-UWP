@@ -13,16 +13,25 @@
             <Image Height="100" Width="100"/>
             <Image Height="100" Width="100"/>
             <Image Height="100" Canvas.Left="1104" Canvas.Top="663" Width="100"/>
+            <CommandBar>
+                <CommandBar.Content>
+                    <Grid/>
+                </CommandBar.Content>
+            </CommandBar>
+            <CommandBar Width="1221" Canvas.Left="269">
+                <CommandBar.Content>
+                    <Grid/>
+                </CommandBar.Content>
+                <AppBarButton Icon="Accept" Label="OK!" Click="AppBarButton_Click_1"/>
+                <AppBarButton Icon="Cancel" Label="Back" Click="AppBarButton_Click_2"/>
+            </CommandBar>
         </Canvas>
         <DatePicker Margin="235,545,0,0" VerticalAlignment="Top" Width="311"/>
-        <CheckBox Content="NO go&#xD;&#xA;" Margin="240,494,0,0" VerticalAlignment="Top" Height="27"/>
-        <Button Content="OK!" Margin="240,689,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click_1"/>
         <PasswordBox HorizontalAlignment="Left" Margin="235,439,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.934,0.531" Width="311"/>
         <TextBlock HorizontalAlignment="Left" Margin="158,446,0,0" Text="Password:" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="148,552,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Date of Birth"/><Run Text=":"/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="168,341,0,0" Text="Name:" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.838,0.658"/>
         <TextBox HorizontalAlignment="Left" Margin="235,334,0,0" Text="&#xD;&#xA;" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Height="32"/>
         <TextBlock HorizontalAlignment="Left" Margin="91,150,0,0" Text="Sign UP" TextWrapping="Wrap" VerticalAlignment="Top" Height="158" Width="406" FontSize="40"/>
-        <Button Content="Back" Margin="436,689,0,0" VerticalAlignment="Top" Width="110" Height="32" Click="Button_Click_2"/>
     </Grid>
 </Page>

@@ -25,6 +25,7 @@
                 <AppBarButton Icon="Accept" Label="OK!" Click="AppBarButton_Click_1"/>
                 <AppBarButton Icon="Cancel" Label="Back" Click="AppBarButton_Click_2"/>
             </CommandBar>
+            <Button Content="Debug Settings" Width="194" Height="48" Click="Button_Click_1" FontSize="20" Canvas.Left="1292" Canvas.Top="79"/>
         </Canvas>
         <DatePicker Margin="235,545,0,0" VerticalAlignment="Top" Width="311"/>
         <PasswordBox HorizontalAlignment="Left" Margin="235,439,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.934,0.531" Width="311"/>

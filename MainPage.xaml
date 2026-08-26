@@ -26,5 +26,8 @@
             <AppBarButton Icon="Accept" Label="OK!" Click="AppBarButton_Click_1"/>
             <AppBarButton Icon="Cancel" Label="Sign UP" Click="AppBarButton_Click_2"/>
         </CommandBar>
+        <Button Content="Debug Settings" Margin="1259,151,0,0" VerticalAlignment="Top" Width="217" Height="50" Click="Button_Click_1" FontSize="20" Grid.ColumnSpan="2"/>
+        <Button Content="Debug Settings" Margin="1259,151,0,0" VerticalAlignment="Top" Width="217" Height="50" Click="Button_Click_1" FontSize="20" Grid.ColumnSpan="2"/>
+        <Button Content="Debug Settings" Margin="79,591,0,0" VerticalAlignment="Top" Width="217" Height="50" Click="Button_Click_1" FontSize="20" Grid.ColumnSpan="2"/>
     </Grid>
 </Page>

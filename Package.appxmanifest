@@ -9,7 +9,7 @@
   <Identity
     Name="New-MinEgde-UWP-Beta"
     Publisher="CN=MinEgde"
-    Version="0.3.0.0" />
+    Version="0.5.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="66307495-278d-45a9-9d56-52ab546e475e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

@@ -1,5 +1,4 @@
-﻿using New_MinEgde_UWP;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -16,26 +15,21 @@ using Windows.UI.Xaml.Navigation;
 
 // https://go.microsoft.com/fwlink/?LinkId=234238 上介绍了“空白页”项模板
 
-namespace MInEgdeUWP_0._1
+namespace New_MinEgde_UWP
 {
     /// <summary>
     /// 可用于自身或导航至 Frame 内部的空白页。
     /// </summary>
-    public sealed partial class BlankPage2 : Page
+    public sealed partial class BlankPage5 : Page
     {
-        public BlankPage2()
+        public BlankPage5()
         {
             this.InitializeComponent();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(BlankPage3));
+            this.Frame.Navigate(typeof(EnteredBackgroundEventHandler));
         }
     }
 }

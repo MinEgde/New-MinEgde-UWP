@@ -15,6 +15,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="1196,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="64" Width="207" FontSize="25"><Run Text="Name:"/><Run Text="MinEgde"/><LineBreak/><Run Text="ID:"/><Run Text="1"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
         <Image HorizontalAlignment="Left" Height="120" Margin="27,22,0,0" VerticalAlignment="Top" Width="134" Source="/Assets/SmallTile.scale-400.png"/>
         <ProgressBar HorizontalAlignment="Center" Height="55" Width="414" IsIndeterminate="True"/>
+        <Button Content="Debug Settings" Margin="1259,151,0,0" VerticalAlignment="Top" Width="217" Height="50" Click="Button_Click_1" FontSize="20"/>
 
     </Grid>
 </Page>

@@ -37,5 +37,10 @@ namespace MInEgdeUWP_0._1
         {
             this.Frame.Navigate(typeof(BlankPage3));
         }
+
+        private void button_Click_2(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(BlankPage6));
+        }
     }
 }

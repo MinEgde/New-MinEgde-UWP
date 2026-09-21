@@ -1,2 +1,2 @@
-MainPackage=D:\MinEgdeUWP\New-MinEgde-UWP\bin\x86\Debug\New-MinEgde-UWP_0.7.0.0_x86_Debug.msix
-SymbolPackage=D:\MinEgdeUWP\New-MinEgde-UWP\obj\x86\Debug\Symbols\New-MinEgde-UWP_0.7.0.0_x86_Debug.appxsym
+MainPackage=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\bin\x86\Debug\New-MinEgde-UWP-RTM_1.2.0.0_x86_Debug.msix
+SymbolPackage=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\obj\x86\Debug\Symbols\New-MinEgde-UWP-RTM_1.2.0.0_x86_Debug.appxsym

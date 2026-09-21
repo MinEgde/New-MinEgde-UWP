@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SplashScreenSource>C:\Users\mc163\Pictures\新建位图图像 %282%29.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\mc163\Desktop\App icon\新建位图图像 %282%29.bmp</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\mc163\Pictures\新建位图图像 %282%29.png</PackageLogoSource>
+    <AppIconSource>C:\Users\mc163\Pictures\新建位图图像 %282%29.png</AppIconSource>
+    <LargeTileSource>C:\Users\mc163\Pictures\新建位图图像 %282%29.png</LargeTileSource>
+    <SmallTileSource>C:\Users\mc163\Desktop\App icon\新建位图图像 %282%29.bmp</SmallTileSource>
+    <MediumTileSource>C:\Users\mc163\Desktop\App icon\新建位图图像 %282%29.bmp</MediumTileSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

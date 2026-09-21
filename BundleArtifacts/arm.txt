@@ -1,6 +1,6 @@
-MainPackage=D:\MinEgdeUWP\New-MinEgde-UWP\bin\ARM\Debug\New-MinEgde-UWP_0.7.0.0_ARM_Debug.msix
-SymbolPackage=D:\MinEgdeUWP\New-MinEgde-UWP\obj\ARM\Debug\Symbols\New-MinEgde-UWP_0.7.0.0_ARM_Debug.appxsym
-ResourcePack=D:\MinEgdeUWP\New-MinEgde-UWP\bin\ARM\Debug\New-MinEgde-UWP_0.7.0.0_scale-100.msix
-ResourcePack=D:\MinEgdeUWP\New-MinEgde-UWP\bin\ARM\Debug\New-MinEgde-UWP_0.7.0.0_scale-125.msix
-ResourcePack=D:\MinEgdeUWP\New-MinEgde-UWP\bin\ARM\Debug\New-MinEgde-UWP_0.7.0.0_scale-150.msix
-ResourcePack=D:\MinEgdeUWP\New-MinEgde-UWP\bin\ARM\Debug\New-MinEgde-UWP_0.7.0.0_scale-400.msix
+MainPackage=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\bin\ARM\Debug\New-MinEgde-UWP-RTM_1.2.0.0_ARM_Debug.msix
+SymbolPackage=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\obj\ARM\Debug\Symbols\New-MinEgde-UWP-RTM_1.2.0.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\bin\ARM\Debug\New-MinEgde-UWP-RTM_1.2.0.0_scale-100.msix
+ResourcePack=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\bin\ARM\Debug\New-MinEgde-UWP-RTM_1.2.0.0_scale-125.msix
+ResourcePack=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\bin\ARM\Debug\New-MinEgde-UWP-RTM_1.2.0.0_scale-150.msix
+ResourcePack=C:\Users\mc163\Documents\New-MinEgde-UWP-RTM\bin\ARM\Debug\New-MinEgde-UWP-RTM_1.2.0.0_scale-400.msix

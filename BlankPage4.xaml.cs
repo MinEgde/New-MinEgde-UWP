@@ -1,4 +1,5 @@
-﻿using MInEgdeUWP_0._1;
+﻿using New_MinEgde_UWP_RTM;
+
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -16,8 +17,8 @@ using Windows.UI.Xaml.Navigation;
 
 // https://go.microsoft.com/fwlink/?LinkId=234238 上介绍了“空白页”项模板
 
-namespace New_MinEgde_UWP
-{
+namespace New_MinEgde_UWP_RTM{
+
     /// <summary>
     /// 可用于自身或导航至 Frame 内部的空白页。
     /// </summary>

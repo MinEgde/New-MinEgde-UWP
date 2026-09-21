@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="New-MinEgde-UWP-Beta"
+    Name="New-MinEgde-UWP-RTM"
     Publisher="CN=MinEgde"
-    Version="0.7.0.0" />
+    Version="1.2.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="66307495-278d-45a9-9d56-52ab546e475e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="772ecc76-a767-4e2e-af75-13a9026959f9" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>New-MinEgde-UWP</DisplayName>
+    <DisplayName>New-MinEgde-UWP-RTM</DisplayName>
     <PublisherDisplayName>MinEgde</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -30,7 +30,7 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="New_MinEgde_UWP.App">
+      EntryPoint="New_MinEgde_UWP">
       <uap:VisualElements
         DisplayName="New-MinEgde-UWP"
         Square150x150Logo="Assets\Square150x150Logo.png"
@@ -46,5 +46,6 @@
 
   <Capabilities>
     <Capability Name="internetClient" />
+    <uap:Capability Name="userAccountInformation"/>
   </Capabilities>
 </Package>

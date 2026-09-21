@@ -1,7 +1,7 @@
 ﻿<Application
-    x:Class="MInEgdeUWP_0._1.App"
+    x:Class="New_MinEgde_UWP_RTM.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:MInEgdeUWP_0._1">
+    xmlns:local="using:New_MinEgde_UWP_RTM">
 
 </Application>

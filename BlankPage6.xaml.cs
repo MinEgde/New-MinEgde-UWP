@@ -1,5 +1,4 @@
-﻿using New_MinEgde_UWP_RTM;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -21,21 +20,11 @@ namespace New_MinEgde_UWP_RTM
     /// <summary>
     /// 可用于自身或导航至 Frame 内部的空白页。
     /// </summary>
-    public sealed partial class BlankPage3 : Page
+    public sealed partial class BlankPage6 : Page
     {
-        public BlankPage3()
+        public BlankPage6()
         {
             this.InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(BlankPage5));
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(BlankPage2));
         }
     }
 }
